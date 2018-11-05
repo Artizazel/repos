@@ -1,0 +1,10 @@
+C:\Users\Arti\source\repos\Click Game\Click Game\bin\Debug\Click Game.exe.config
+C:\Users\Arti\source\repos\Click Game\Click Game\bin\Debug\Click Game.exe
+C:\Users\Arti\source\repos\Click Game\Click Game\bin\Debug\Click Game.pdb
+C:\Users\Arti\source\repos\Click Game\Click Game\obj\Debug\Click Game.csprojAssemblyReference.cache
+C:\Users\Arti\source\repos\Click Game\Click Game\obj\Debug\Click_Game.Form1.resources
+C:\Users\Arti\source\repos\Click Game\Click Game\obj\Debug\Click_Game.Properties.Resources.resources
+C:\Users\Arti\source\repos\Click Game\Click Game\obj\Debug\Click Game.csproj.GenerateResource.cache
+C:\Users\Arti\source\repos\Click Game\Click Game\obj\Debug\Click Game.csproj.CoreCompileInputs.cache
+C:\Users\Arti\source\repos\Click Game\Click Game\obj\Debug\Click Game.exe
+C:\Users\Arti\source\repos\Click Game\Click Game\obj\Debug\Click Game.pdb
