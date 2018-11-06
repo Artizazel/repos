@@ -8,3 +8,13 @@ C:\Users\Arti\source\repos\Click Game\Click Game\obj\Debug\Click Game.csproj.Gen
 C:\Users\Arti\source\repos\Click Game\Click Game\obj\Debug\Click Game.csproj.CoreCompileInputs.cache
 C:\Users\Arti\source\repos\Click Game\Click Game\obj\Debug\Click Game.exe
 C:\Users\Arti\source\repos\Click Game\Click Game\obj\Debug\Click Game.pdb
+C:\Users\sbloxham2\Documents\GitHub\repos\Click Game\Click Game\bin\Debug\Click Game.exe.config
+C:\Users\sbloxham2\Documents\GitHub\repos\Click Game\Click Game\bin\Debug\Click Game.exe
+C:\Users\sbloxham2\Documents\GitHub\repos\Click Game\Click Game\bin\Debug\Click Game.pdb
+C:\Users\sbloxham2\Documents\GitHub\repos\Click Game\Click Game\obj\Debug\Click Game.csprojResolveAssemblyReference.cache
+C:\Users\sbloxham2\Documents\GitHub\repos\Click Game\Click Game\obj\Debug\Click_Game.Form1.resources
+C:\Users\sbloxham2\Documents\GitHub\repos\Click Game\Click Game\obj\Debug\Click_Game.Properties.Resources.resources
+C:\Users\sbloxham2\Documents\GitHub\repos\Click Game\Click Game\obj\Debug\Click Game.csproj.GenerateResource.Cache
+C:\Users\sbloxham2\Documents\GitHub\repos\Click Game\Click Game\obj\Debug\Click Game.csproj.CoreCompileInputs.cache
+C:\Users\sbloxham2\Documents\GitHub\repos\Click Game\Click Game\obj\Debug\Click Game.exe
+C:\Users\sbloxham2\Documents\GitHub\repos\Click Game\Click Game\obj\Debug\Click Game.pdb

@@ -40,7 +40,7 @@ namespace Click_Game
         private void timer1_Tick(object sender, EventArgs e)
         {
             Console.Beep();
-            timer1.Interval = 1000;
+            timer1.Interval = 1500;
 
             Random rndX = new Random();
 
