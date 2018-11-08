@@ -1,0 +1,10 @@
+C:\Users\sbloxham2\Downloads\Loops and list boxes\Loops and list boxes\bin\Debug\Loops and list boxes.exe.config
+C:\Users\sbloxham2\Downloads\Loops and list boxes\Loops and list boxes\bin\Debug\Loops and list boxes.exe
+C:\Users\sbloxham2\Downloads\Loops and list boxes\Loops and list boxes\bin\Debug\Loops and list boxes.pdb
+C:\Users\sbloxham2\Downloads\Loops and list boxes\Loops and list boxes\obj\Debug\Loops and list boxes.csprojAssemblyReference.cache
+C:\Users\sbloxham2\Downloads\Loops and list boxes\Loops and list boxes\obj\Debug\Loops_and_list_boxes.Numbers.resources
+C:\Users\sbloxham2\Downloads\Loops and list boxes\Loops and list boxes\obj\Debug\Loops_and_list_boxes.Properties.Resources.resources
+C:\Users\sbloxham2\Downloads\Loops and list boxes\Loops and list boxes\obj\Debug\Loops and list boxes.csproj.GenerateResource.cache
+C:\Users\sbloxham2\Downloads\Loops and list boxes\Loops and list boxes\obj\Debug\Loops and list boxes.csproj.CoreCompileInputs.cache
+C:\Users\sbloxham2\Downloads\Loops and list boxes\Loops and list boxes\obj\Debug\Loops and list boxes.exe
+C:\Users\sbloxham2\Downloads\Loops and list boxes\Loops and list boxes\obj\Debug\Loops and list boxes.pdb
