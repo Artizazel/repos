@@ -8,3 +8,13 @@ C:\Users\sbloxham2\Downloads\Arrays\Arrays\obj\Debug\Arrays.csproj.GenerateResou
 C:\Users\sbloxham2\Downloads\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
 C:\Users\sbloxham2\Downloads\Arrays\Arrays\obj\Debug\Arrays.exe
 C:\Users\sbloxham2\Downloads\Arrays\Arrays\obj\Debug\Arrays.pdb
+C:\Users\Arti\source\repos\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\Arti\source\repos\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\Users\Arti\source\repos\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\Users\Arti\source\repos\Arrays\Arrays\obj\Debug\Arrays.csprojAssemblyReference.cache
+C:\Users\Arti\source\repos\Arrays\Arrays\obj\Debug\Arrays.Form1.resources
+C:\Users\Arti\source\repos\Arrays\Arrays\obj\Debug\Arrays.Properties.Resources.resources
+C:\Users\Arti\source\repos\Arrays\Arrays\obj\Debug\Arrays.csproj.GenerateResource.cache
+C:\Users\Arti\source\repos\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Arti\source\repos\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Users\Arti\source\repos\Arrays\Arrays\obj\Debug\Arrays.pdb
